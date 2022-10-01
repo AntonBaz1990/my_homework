@@ -5,3 +5,4 @@ git init -инициализация папки с git
 git status -проверяем статус GITa
 git remote add .  -фиксация состояния   
 git commit -m "текст содержания коммита"
+git log -просмотр логов
