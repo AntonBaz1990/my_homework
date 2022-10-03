@@ -1,6 +1,7 @@
-Hello! my first lection 
-git config --global user.name "name" указываем имя
-git config --global user.email "email" - указываем почту
+** Hello! my first lection 
+
+1. git config --global user.name "name" указываем имя
+2. git config --global user.email "email" - указываем почту
 git init -инициализация папки с git
 git status -проверяем статус GITa
 git remote add .  -фиксация состояния   
