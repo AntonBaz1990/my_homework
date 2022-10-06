@@ -50,3 +50,11 @@ Hello! my first lection
 * git remote -V - показывает список подключенных репозиториев
 
 * git commit -am "коммит" - зафиксировать состояние и добавить коммит в одной комманде
+
+## ВАЖНО
+
+* git remote add origin <repo> ---------добавляем репозиторий
+  
+* git branch -M master - указываем какая ветка является основной 
+  
+*  git push -u origin master - 
